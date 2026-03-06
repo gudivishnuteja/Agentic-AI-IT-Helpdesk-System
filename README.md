@@ -11,6 +11,18 @@ This project demonstrates how **Retrieval-Augmented Generation (RAG)**
 combined with **multi-agent workflows** can automate IT support
 operations.
 
+<img width="1920" height="1080" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/64c39297-415c-42b5-b6ea-96b52bcda83f" />
+<img width="1920" height="1080" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/52bdfa69-8d3a-48b1-b6f4-5cecd08d75ac" />
+<img width="1920" height="1080" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/cc819bf3-7bd9-44f6-8828-a088b1945b56" />
+<img width="1920" height="1080" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/24c01b94-b034-4ccf-a1af-c19f64805d95" />
+
+
+
+
+
+
+
+
 ------------------------------------------------------------------------
 
 # 🚀 Features
